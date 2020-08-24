@@ -9,6 +9,7 @@ Phong includes ambiant light effect.\
 There's no way to change the light position or its power other than editing the source.\
 But with very little changes you can add extra sources of light and make them move around your objects.
 
+![animated](animated.gif)
 
 
 #### Wireframe
