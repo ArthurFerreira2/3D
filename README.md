@@ -60,7 +60,7 @@ Drag and drop an .obj file in the application window and use the following keys 
 
 You may find some .obj files in the OBJ folder.
 
-They are text files in a very simple format :\
+They are text files in a very simple format :
 - the first two lines are the number of points and faces\
 ```P 470```\
 ```F 620```
