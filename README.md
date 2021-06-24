@@ -2,7 +2,7 @@
 
 
 Implementing low level algorithms to plot pixels, draw lines (clipping), triangles, shapes and 3D objects (Z-buffer) in 5 rendering modes including Gouraud and Phong shading.\
-In C99, and using SDL2 only to plot dots directly to the window surface and manage inputs.\
+In C99, using SDL2 and only to plot dots directly to the window surface and manage inputs.\
 
 You can translate and rotate the object in the 3 Axis.\
 Phong includes ambiant light effect.\
